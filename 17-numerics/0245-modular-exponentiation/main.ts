@@ -1,0 +1,14 @@
+function modPow(base: number, exp: number, mod: number): number {
+  let result = 1;
+  base %= mod;
+  while (exp > 0) {
+    if (exp & 1) {
+      result = (result * base) % mod;
+    }
+    base = (base * base) % mod;
+    exp >>= 1;
+  }
+  return result;
+}
+
+console.log(modPow(3, 13, 7));
