@@ -1,0 +1,12 @@
+{
+  "name": "reactive-frameworks",
+  "private": true,
+  "description": "Shared RxJS + tsx dependencies for the 26-reactive-frameworks lessons",
+  "dependencies": {
+    "rxjs": "^7.8.1"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}
