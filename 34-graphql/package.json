@@ -1,0 +1,1 @@
+{ "name":"ts-graphql","private":true,"type":"module","dependencies":{"graphql":"^16.9.0"},"devDependencies":{"tsx":"^4.19.2","typescript":"^5.7.2"} }
