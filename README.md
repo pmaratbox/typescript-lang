@@ -650,6 +650,7 @@ Incremental lessons learning TypeScript.
 
 ### Cryptography & Hashing
 - [0559-sha256](41-crypto-hashing/0559-sha256/) — sHA-256 hash of a string
+- [0560-sha512](41-crypto-hashing/0560-sha512/) — sHA-512 hash of a string
 
 ## How to run
 
