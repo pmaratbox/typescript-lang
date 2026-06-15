@@ -1,0 +1,1 @@
+{ "name":"ts-datetime","private":true,"type":"module","dependencies":{"luxon":"^3.5.0"},"devDependencies":{"@types/luxon":"^3.4.2","tsx":"^4.19.2","typescript":"^5.7.2"} }
