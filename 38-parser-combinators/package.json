@@ -1,0 +1,1 @@
+{ "name":"ts-parsers","private":true,"type":"module","dependencies":{"parsimmon":"^1.18.1"},"devDependencies":{"@types/parsimmon":"^1.10.9","tsx":"^4.19.2","typescript":"^5.7.2"} }
