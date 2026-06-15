@@ -1,0 +1,13 @@
+{
+  "name": "ts-orm",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "drizzle-orm": "^0.36.4",
+    "@libsql/client": "^0.14.0"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}
