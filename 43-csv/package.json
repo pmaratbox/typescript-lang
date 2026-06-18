@@ -1,0 +1,14 @@
+{
+  "name": "csv",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "papaparse": "^5.4.1"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2",
+    "@types/node": "^22.10.2",
+    "@types/papaparse": "^5.3.15"
+  }
+}
