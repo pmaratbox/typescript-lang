@@ -1,0 +1,3 @@
+{ "name": "dependency-injection", "private": true, "type": "module",
+  "dependencies": { "awilix": "^12.0.4" },
+  "devDependencies": { "tsx": "^4.19.2", "typescript": "^5.7.2", "@types/node": "^22.10.2" } }
