@@ -1,0 +1,3 @@
+{ "name": "resilience", "private": true, "type": "module",
+  "dependencies": { "p-retry": "^6.2.1" },
+  "devDependencies": { "tsx": "^4.19.2", "typescript": "^5.7.2", "@types/node": "^22.10.2" } }
