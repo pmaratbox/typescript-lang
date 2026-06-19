@@ -1,0 +1,3 @@
+{ "name": "config-lessons", "private": true,
+  "dependencies": { "config": "^3.3.12" },
+  "devDependencies": { "tsx": "^4.19.2", "typescript": "^5.7.2", "@types/node": "^22.10.2", "@types/config": "^3.3.5" } }
