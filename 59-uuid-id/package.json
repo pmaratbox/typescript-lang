@@ -1,0 +1,3 @@
+{ "name": "uuid-id", "private": true, "type": "module",
+  "dependencies": { "uuid": "^11.0.3" },
+  "devDependencies": { "tsx": "^4.19.2", "typescript": "^5.7.2", "@types/node": "^22.10.2" } }
