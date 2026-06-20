@@ -1,0 +1,3 @@
+{ "name": "diffing", "private": true, "type": "module",
+  "dependencies": { "diff": "^7.0.0" },
+  "devDependencies": { "tsx": "^4.19.2", "typescript": "^5.7.2", "@types/node": "^22.10.2", "@types/diff": "^7.0.0" } }
