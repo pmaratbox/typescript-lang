@@ -834,6 +834,7 @@ Incremental lessons learning TypeScript.
 
 ### Deterministic IDs
 - [0707-uuid-v5](59-uuid-id/0707-uuid-v5/) — deterministic UUIDv5 from a name
+- [0708-uuid-v5-stable](59-uuid-id/0708-uuid-v5-stable/) — same name yields the same UUID
 
 ## How to run
 
