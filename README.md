@@ -817,6 +817,7 @@ Incremental lessons learning TypeScript.
 - [0692-ansi-green](57-terminal-ansi/0692-ansi-green/) — color text green (ANSI 32)
 - [0693-ansi-yellow](57-terminal-ansi/0693-ansi-yellow/) — color text yellow (ANSI 33)
 - [0694-ansi-blue](57-terminal-ansi/0694-ansi-blue/) — color text blue (ANSI 34)
+- [0695-ansi-magenta](57-terminal-ansi/0695-ansi-magenta/) — color text magenta (ANSI 35)
 
 ## How to run
 
