@@ -812,6 +812,9 @@ Incremental lessons learning TypeScript.
 - [0689-fp-take](56-functional-utils/0689-fp-take/) — take the first N elements
 - [0690-fp-flat-map](56-functional-utils/0690-fp-flat-map/) — map then flatten
 
+### Terminal & ANSI
+- [0691-ansi-red](57-terminal-ansi/0691-ansi-red/) — color text red (ANSI 31)
+
 ## How to run
 
 Lessons are grouped into topic folders (e.g. `05-strings/0072-palindrome-check/`).
